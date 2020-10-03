@@ -1,0 +1,8 @@
+<article>
+    <header align="center">
+        <img src="assets/hyunik.png" width="30%" height="30%">
+        <h1>{{ include.title | default: page.title }}</h1>
+    </header>
+    {% capture intro %}{% include_relative intro.md %}{% endcapture %}
+    {{ intro | markdownify }}
+</article>
