@@ -26,6 +26,6 @@ Suhho Lee, **Hyunik Kim**, and Seehwan Yoo. “Comparison between Intel SGX and 
 
 **Hyunik Kim**, Suhho Lee, and Seehwan Yoo. “Security Vulnerability Analysis in Nested Kernel.” In _Proceedings of Korea Software Congress 2017_, Busan, Korea, December 2017. **(Best Paper Award)**
 
-**Hyunik Kim**, and Seehwan Yoo. “Comparative Study of Trusted Computing: Intel TXT vs. ARM TrustZone.” In _Proceedings of Korea Computer Congress 2017_, Jeju, Korea, June 2017
+**Hyunik Kim**, and Seehwan Yoo. “Comparative Study of Trusted Computing: Intel TXT vs. ARM TrustZone.” In _Proceedings of Korea Computer Congress 2017_, Jeju, Korea, June 2017.
 
 Yoonseok Shim, **Hyunik Kim**, and Seehwan Yoo. “Black-box Test Automation Tool for Open TV Platform.” In _Proceedings of Korea Institute Information Scientists and Engineers Winter Conference 2014_, Pyeongchang, Korea, December 2014.
