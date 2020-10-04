@@ -4,7 +4,7 @@ permalink: "/publications/"
 layout: page
 ---
 
-### Referred Conferences (International)
+### Refereed Conferences (International)
 Changyeon Jo, **Hyunik Kim**, Hexiang Geng, and Bernhard Egger. “RackMem: A Tailored Caching Layer for Rack Scale Computing.” In _Proceedings of the 29th International Conference on Parallel Architectures and Compilation Techniques (PACT'20)_, Virtual Event, October 2020.
 [[pdf]](https://csap.snu.ac.kr/sites/default/files/papers/2020.PACT.Jo.RackMem.A%20Tailored%20Caching%20Layer%20for%20Rack%20Scale%20Computing.pdf) [[doi]](https://doi.org/10.1145/3410463.3414643)
 
@@ -17,11 +17,11 @@ Youngsu Cho, Changyeon Jo, **Hyunik Kim**, and Bernhard Egger. “Towards Econom
 Seehwan Yoo, **Hyunik Kim**, and Joongheon Kim. “Secure-compute VM.” In _Proceedings of the 3rd Workshop on System Software for Trusted Execution (SysTEX'18)_, Toronto, Canada, October 2018.
 [[doi]](https://doi.org/10.1145/3268935.3268945)
 
-### Referred Journal (Domestic, Written in Korean)
+### Refereed Journal (Domestic, Written in Korean)
 **Hyunik Kim**, and Seehwan Yoo. "Vulnerability Analysis on Kernel Code and Memory Protection in Nested Kernel." In _Journal of Korean Institute Information Scientists and Engineers (JOK)_, 2018.
 [[doi]](https://doi.org/10.5626/JOK.2018.45.9.873)
 
-### Referred Conferences (Domestic, Written in Korean)
+### Refereed Conferences (Domestic, Written in Korean)
 Suhho Lee, **Hyunik Kim**, and Seehwan Yoo. “Comparison between Intel SGX and ARM TZ for Software base trust execution environment.” In _Proceedings of Korea Computer Congress 2018_, Jeju, Korea, June 2018.
 
 **Hyunik Kim**, Suhho Lee, and Seehwan Yoo. “Security Vulnerability Analysis in Nested Kernel.” In _Proceedings of Korea Software Congress 2017_, Busan, Korea, December 2017. **(Best Paper Award)**
