@@ -22,11 +22,11 @@ minimal: false               # use simpler style
 # Menu
 
 navigation:
-  - {file: "index.html", icon: home}
+  - {title: "About", file: "index.html", icon: address-card}
   - {file: "publication.md", icon: book}
   - {file: "experience.md", icon: suitcase}
   - {title: "CV", url: "assets/cv.pdf", icon: paperclip}
-  - {file: "archive.html", icon: address-card}
+#  - {file: "archive.html", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}

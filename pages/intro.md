@@ -6,7 +6,7 @@ As a potential systems researcher, I've been working on various computer systems
 My current research focuses on building efficient and reliable remote memory for data-center environment.
 Also, I work on instantly live migrating virtual machines.
 
-Previously, when I was a undergraduate research assistant at [Mobile Operating Systems Lab](https://mobile-os.dankook.ac.kr), I contributed to research projects convering systems security, hardware accelerator, and automated code generation.
+Previously, when I was a undergraduate research assistant at [Mobile Operating Systems Lab](https://mobile-os.dankook.ac.kr), I contributed to research projects covering systems security, hardware accelerator, and automated code generation.
 My work had been focusing on building and maintaining secure data processing environment for cloud computing.
 Also, I implemented automated testing framework that supports planned testing.
 
